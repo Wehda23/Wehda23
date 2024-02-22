@@ -5,7 +5,7 @@
 
 <br>
 
-Software Engineer with high Cognitive skills and learning abilities with problem solving skills and experience in some programming languages such as Python, JavaScript and C, Follow the practice of clean, clear and efficient and Scalable and reusable code following the concepts and principles of OOP and SOLID concepts, Looking for an opportunity to work on project that challenges my current skills to grow in field of Software engineering.
+I am a dedicated Software Engineer with a passion for tackling challenging projects. I am committed to applying my current skills while continuously learning new technologies. My disciplined approach involves implementing Data Structures, Algorithms, and adhering to Object-Oriented Programming principles and SOLID concepts. I strive to deliver efficient, clear, clean, scalable, maintainable, and reusable code. I am enthusiastic about contributing my expertise to impactful and innovative endeavors.
 
 <br><br>
 
