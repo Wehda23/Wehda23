@@ -67,7 +67,3 @@ I’m continuously learning and contributing to impactful, innovative projects a
   ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </p>
-
----
-
-⭐️ From [Waheed Khaled](https://github.com/waheedkhaled)
