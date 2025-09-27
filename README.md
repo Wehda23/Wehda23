@@ -6,7 +6,7 @@
 <br>
 
 I am a dedicated **Software Engineer** with 4+ years of experience building robust, scalable, and maintainable applications.  
-Passionate about solving challenging problems, I apply **Data Structures, Algorithms, Object-Oriented Programming, and SOLID principles** to deliver efficient, clean, and reusable code.  
+Passionate about solving challenging problems, I apply **Data Structures, Algorithms, Object-Oriented Programming, SOLID principles and Design Patterns** to deliver efficient, clean, and reusable code.  
 
 I focus on developing **modern web applications** with optimized performance, maintainable architecture, and seamless user experiences.  
 I’m continuously learning and contributing to impactful, innovative projects across **frontend, backend, and DevOps** domains.
