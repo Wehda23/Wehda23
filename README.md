@@ -61,8 +61,6 @@ I enjoy owning features from idea to production and collaborating closely with d
 
 </p>
 
-> Prior experience: **Python, Django, Flask, FastAPI**
-
 ---
 
 ### **DevOps & Infrastructure**
