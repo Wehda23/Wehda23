@@ -5,11 +5,12 @@
 
 <br>
 
-I am a dedicated **Software Engineer** with 4+ years of experience building robust, scalable, and maintainable applications.  
-Passionate about solving challenging problems, I apply **Data Structures, Algorithms, Object-Oriented Programming, SOLID principles and Design Patterns** to deliver efficient, clean, and reusable code.  
+Software Engineer with 4+ years of experience building and shipping production-grade web applications.
+I specialize in frontend-focused full-stack development, delivering scalable Angular/React applications backed by clean, well-designed APIs.
 
-I focus on developing **modern web applications** with optimized performance, maintainable architecture, and seamless user experiences.  
-I’m continuously learning and contributing to impactful, innovative projects across **frontend, backend, and DevOps** domains.
+I’ve worked across real production systems — from architecture and performance optimization to deployment and infrastructure — with hands-on experience in TypeScript, Angular, NestJS, and modern DevOps workflows.
+
+I care deeply about clean architecture, maintainability, and writing code that scales with both users and teams. I enjoy owning features end-to-end and collaborating closely with stakeholders to turn business requirements into reliable software.
 
 <br><br>
 
