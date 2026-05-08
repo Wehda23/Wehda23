@@ -83,6 +83,3 @@ I enjoy owning features from idea to production and collaborating closely with d
 - Performance Optimization
 - Scalable Web Application Architecture
 
----
-
-📌 **Currently focused on building Angular + NestJS production-ready applications.**
